@@ -17,3 +17,9 @@ medistok
 --------
 
 My actual A-level computing project.  Medical database with stock-taking alarm, also written in Turbo Pascal.
+
+
+Mandelbrot
+----------
+
+Mandelbrot applet originally written by Arthur Norman for the Java course at Cambridge.  Tweaking in progress...
